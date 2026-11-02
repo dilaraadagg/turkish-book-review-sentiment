@@ -1,0 +1,4 @@
+# Yalnızca panel (Streamlit Community Cloud demosu için hafif kurulum)
+pandas>=2.2
+streamlit>=1.40
+plotly>=5.24

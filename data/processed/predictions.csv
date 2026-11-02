@@ -1,0 +1,301 @@
+﻿Id,ISBN,KitapAdi,KullaniciPuani,YorumIcerigi,KaynakSite,pred_idx,model_label,DuyguEtiketi,Conf,TrueLabel
+1,9786051111111,Suç ve Ceza,3,Orta karar bir kitap.,KitapSeç,0,negative,negatif,0.99922013,notr
+2,9786051111111,Suç ve Ceza,2,Dili ağır ve anlaşılmaz.,KitapSeç,0,negative,negatif,0.9980343,negatif
+3,9786051111111,Suç ve Ceza,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+4,9786051111111,Suç ve Ceza,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol,0,negative,negatif,0.9990742,notr
+5,9786051111111,Suç ve Ceza,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol,0,negative,negatif,0.9995968,negatif
+6,9786051111111,Suç ve Ceza,2,Dili ağır ve anlaşılmaz.,KitapSeç,0,negative,negatif,0.9980343,negatif
+7,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+8,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+9,9786051111111,Suç ve Ceza,4,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+10,9786051111111,Suç ve Ceza,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+11,9786051111111,Suç ve Ceza,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+12,9786051111111,Suç ve Ceza,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+13,9786051111111,Suç ve Ceza,3,Orta karar bir kitap.,Trendyol,0,negative,negatif,0.99922013,notr
+14,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+15,9786051111111,Suç ve Ceza,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+16,9786051111111,Suç ve Ceza,2,"Kurgu zayıf, zaman kaybı oldu.",Trendyol,0,negative,negatif,0.9995968,negatif
+17,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+18,9786051111111,Suç ve Ceza,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+19,9786051111111,Suç ve Ceza,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol,0,negative,negatif,0.9990742,notr
+20,9786051111111,Suç ve Ceza,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+21,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+22,9786051111111,Suç ve Ceza,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+23,9786051111111,Suç ve Ceza,3,Ne çok iyi ne çok kötü.,KitapSeç,0,negative,negatif,0.91784275,notr
+24,9786051111111,Suç ve Ceza,3,Orta karar bir kitap.,Trendyol,0,negative,negatif,0.99922013,notr
+25,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+26,9786051111111,Suç ve Ceza,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol,0,negative,negatif,0.9995968,negatif
+27,9786051111111,Suç ve Ceza,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+28,9786051111111,Suç ve Ceza,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol,0,negative,negatif,0.9995968,negatif
+29,9786051111111,Suç ve Ceza,2,Dili ağır ve anlaşılmaz.,KitapSeç,0,negative,negatif,0.9980343,negatif
+30,9786051111111,Suç ve Ceza,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+31,9786051111111,Suç ve Ceza,3,Ne çok iyi ne çok kötü.,Trendyol,0,negative,negatif,0.91784275,notr
+32,9786051111111,Suç ve Ceza,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+33,9786051111111,Suç ve Ceza,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+34,9786051111111,Suç ve Ceza,2,Dili ağır ve anlaşılmaz.,KitapSeç,0,negative,negatif,0.9980343,negatif
+35,9786051111111,Suç ve Ceza,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+36,9786051111111,Suç ve Ceza,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+37,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+38,9786051111111,Suç ve Ceza,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+39,9786051111111,Suç ve Ceza,2,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+40,9786051111111,Suç ve Ceza,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+41,9786051111111,Suç ve Ceza,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+42,9786051111111,Suç ve Ceza,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+43,9786051111111,Suç ve Ceza,3,Orta karar bir kitap.,KitapSeç,0,negative,negatif,0.99922013,notr
+44,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+45,9786051111111,Suç ve Ceza,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol,0,negative,negatif,0.9995968,negatif
+46,9786051111111,Suç ve Ceza,3,Ne çok iyi ne çok kötü.,Trendyol,0,negative,negatif,0.9178426,notr
+47,9786051111111,Suç ve Ceza,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+48,9786051111111,Suç ve Ceza,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+49,9786051111111,Suç ve Ceza,2,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+50,9786051111111,Suç ve Ceza,1,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç,0,negative,negatif,0.9995968,negatif
+51,9786051111111,Suç ve Ceza,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+52,9786051111111,Suç ve Ceza,3,Ne çok iyi ne çok kötü.,KitapSeç,0,negative,negatif,0.9178426,notr
+53,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+54,9786051111111,Suç ve Ceza,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+55,9786051111111,Suç ve Ceza,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+56,9786051111111,Suç ve Ceza,4,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+57,9786051111111,Suç ve Ceza,3,Orta karar bir kitap.,KitapSeç,0,negative,negatif,0.99922013,notr
+58,9786051111111,Suç ve Ceza,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+59,9786051111111,Suç ve Ceza,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol,0,negative,negatif,0.9990742,notr
+60,9786051111111,Suç ve Ceza,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol,0,negative,negatif,0.9990742,notr
+61,9786052222222,Kürk Mantolu Madonna,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+62,9786052222222,Kürk Mantolu Madonna,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+63,9786052222222,Kürk Mantolu Madonna,1,Dili ağır ve anlaşılmaz.,KitapSeç,0,negative,negatif,0.9980343,negatif
+64,9786052222222,Kürk Mantolu Madonna,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+65,9786052222222,Kürk Mantolu Madonna,2,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+66,9786052222222,Kürk Mantolu Madonna,1,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+67,9786052222222,Kürk Mantolu Madonna,2,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+68,9786052222222,Kürk Mantolu Madonna,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+69,9786052222222,Kürk Mantolu Madonna,2,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç,0,negative,negatif,0.9995968,negatif
+70,9786052222222,Kürk Mantolu Madonna,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+71,9786052222222,Kürk Mantolu Madonna,1,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+72,9786052222222,Kürk Mantolu Madonna,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+73,9786052222222,Kürk Mantolu Madonna,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+74,9786052222222,Kürk Mantolu Madonna,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+75,9786052222222,Kürk Mantolu Madonna,3,Orta karar bir kitap.,KitapSeç,0,negative,negatif,0.99922013,notr
+76,9786052222222,Kürk Mantolu Madonna,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+77,9786052222222,Kürk Mantolu Madonna,3,Ne çok iyi ne çok kötü.,KitapSeç,0,negative,negatif,0.91784275,notr
+78,9786052222222,Kürk Mantolu Madonna,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+79,9786052222222,Kürk Mantolu Madonna,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+80,9786052222222,Kürk Mantolu Madonna,4,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+81,9786052222222,Kürk Mantolu Madonna,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+82,9786052222222,Kürk Mantolu Madonna,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+83,9786052222222,Kürk Mantolu Madonna,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+84,9786052222222,Kürk Mantolu Madonna,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+85,9786052222222,Kürk Mantolu Madonna,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+86,9786052222222,Kürk Mantolu Madonna,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+87,9786052222222,Kürk Mantolu Madonna,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+88,9786052222222,Kürk Mantolu Madonna,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+89,9786052222222,Kürk Mantolu Madonna,3,Ne çok iyi ne çok kötü.,KitapSeç,0,negative,negatif,0.91784275,notr
+90,9786052222222,Kürk Mantolu Madonna,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+91,9786052222222,Kürk Mantolu Madonna,2,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+92,9786052222222,Kürk Mantolu Madonna,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+93,9786052222222,Kürk Mantolu Madonna,3,Orta karar bir kitap.,KitapSeç,0,negative,negatif,0.99922013,notr
+94,9786052222222,Kürk Mantolu Madonna,1,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç,0,negative,negatif,0.9995968,negatif
+95,9786052222222,Kürk Mantolu Madonna,3,Ne çok iyi ne çok kötü.,Trendyol,0,negative,negatif,0.91784275,notr
+96,9786052222222,Kürk Mantolu Madonna,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol,0,negative,negatif,0.9990742,notr
+97,9786052222222,Kürk Mantolu Madonna,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+98,9786052222222,Kürk Mantolu Madonna,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+99,9786052222222,Kürk Mantolu Madonna,3,Orta karar bir kitap.,Trendyol,0,negative,negatif,0.99922013,notr
+100,9786052222222,Kürk Mantolu Madonna,3,Orta karar bir kitap.,KitapSeç,0,negative,negatif,0.99922013,notr
+101,9786052222222,Kürk Mantolu Madonna,3,Orta karar bir kitap.,Trendyol,0,negative,negatif,0.99922013,notr
+102,9786052222222,Kürk Mantolu Madonna,3,Orta karar bir kitap.,KitapSeç,0,negative,negatif,0.99922013,notr
+103,9786052222222,Kürk Mantolu Madonna,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol,0,negative,negatif,0.9990742,notr
+104,9786052222222,Kürk Mantolu Madonna,3,Ne çok iyi ne çok kötü.,Trendyol,0,negative,negatif,0.9178426,notr
+105,9786052222222,Kürk Mantolu Madonna,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+106,9786052222222,Kürk Mantolu Madonna,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+107,9786052222222,Kürk Mantolu Madonna,3,Ne çok iyi ne çok kötü.,KitapSeç,0,negative,negatif,0.91784275,notr
+108,9786052222222,Kürk Mantolu Madonna,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+109,9786052222222,Kürk Mantolu Madonna,1,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+110,9786052222222,Kürk Mantolu Madonna,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+111,9786052222222,Kürk Mantolu Madonna,2,"Kurgu zayıf, zaman kaybı oldu.",Trendyol,0,negative,negatif,0.9995968,negatif
+112,9786052222222,Kürk Mantolu Madonna,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+113,9786052222222,Kürk Mantolu Madonna,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+114,9786052222222,Kürk Mantolu Madonna,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+115,9786052222222,Kürk Mantolu Madonna,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol,0,negative,negatif,0.9990742,notr
+116,9786052222222,Kürk Mantolu Madonna,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+117,9786052222222,Kürk Mantolu Madonna,2,"Kurgu zayıf, zaman kaybı oldu.",Trendyol,0,negative,negatif,0.9995968,negatif
+118,9786052222222,Kürk Mantolu Madonna,1,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+119,9786052222222,Kürk Mantolu Madonna,2,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+120,9786052222222,Kürk Mantolu Madonna,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+121,9786053333333,Simyacı,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+122,9786053333333,Simyacı,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+123,9786053333333,Simyacı,1,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+124,9786053333333,Simyacı,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+125,9786053333333,Simyacı,3,Orta karar bir kitap.,KitapSeç,0,negative,negatif,0.99922013,notr
+126,9786053333333,Simyacı,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+127,9786053333333,Simyacı,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+128,9786053333333,Simyacı,2,Dili ağır ve anlaşılmaz.,KitapSeç,0,negative,negatif,0.9980343,negatif
+129,9786053333333,Simyacı,2,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+130,9786053333333,Simyacı,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol,0,negative,negatif,0.9995968,negatif
+131,9786053333333,Simyacı,3,Orta karar bir kitap.,KitapSeç,0,negative,negatif,0.99922013,notr
+132,9786053333333,Simyacı,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+133,9786053333333,Simyacı,1,Dili ağır ve anlaşılmaz.,KitapSeç,0,negative,negatif,0.9980343,negatif
+134,9786053333333,Simyacı,3,Ne çok iyi ne çok kötü.,Trendyol,0,negative,negatif,0.9178426,notr
+135,9786053333333,Simyacı,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+136,9786053333333,Simyacı,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+137,9786053333333,Simyacı,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol,0,negative,negatif,0.9990742,notr
+138,9786053333333,Simyacı,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+139,9786053333333,Simyacı,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+140,9786053333333,Simyacı,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+141,9786053333333,Simyacı,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+142,9786053333333,Simyacı,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",KitapSeç,0,negative,negatif,0.9990742,notr
+143,9786053333333,Simyacı,2,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç,0,negative,negatif,0.9995968,negatif
+144,9786053333333,Simyacı,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",KitapSeç,0,negative,negatif,0.9990742,notr
+145,9786053333333,Simyacı,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+146,9786053333333,Simyacı,3,Orta karar bir kitap.,KitapSeç,0,negative,negatif,0.99922013,notr
+147,9786053333333,Simyacı,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",KitapSeç,0,negative,negatif,0.9990742,notr
+148,9786053333333,Simyacı,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+149,9786053333333,Simyacı,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+150,9786053333333,Simyacı,3,Orta karar bir kitap.,KitapSeç,0,negative,negatif,0.99922013,notr
+151,9786053333333,Simyacı,3,Orta karar bir kitap.,KitapSeç,0,negative,negatif,0.99922013,notr
+152,9786053333333,Simyacı,1,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç,0,negative,negatif,0.9995968,negatif
+153,9786053333333,Simyacı,2,Dili ağır ve anlaşılmaz.,KitapSeç,0,negative,negatif,0.9980343,negatif
+154,9786053333333,Simyacı,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+155,9786053333333,Simyacı,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+156,9786053333333,Simyacı,4,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+157,9786053333333,Simyacı,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+158,9786053333333,Simyacı,3,Ne çok iyi ne çok kötü.,Trendyol,0,negative,negatif,0.9178426,notr
+159,9786053333333,Simyacı,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+160,9786053333333,Simyacı,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol,0,negative,negatif,0.9995968,negatif
+161,9786053333333,Simyacı,3,Ne çok iyi ne çok kötü.,KitapSeç,0,negative,negatif,0.91784275,notr
+162,9786053333333,Simyacı,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+163,9786053333333,Simyacı,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+164,9786053333333,Simyacı,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+165,9786053333333,Simyacı,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+166,9786053333333,Simyacı,2,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç,0,negative,negatif,0.9995968,negatif
+167,9786053333333,Simyacı,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+168,9786053333333,Simyacı,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol,0,negative,negatif,0.9995968,negatif
+169,9786053333333,Simyacı,2,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+170,9786053333333,Simyacı,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol,0,negative,negatif,0.9990742,notr
+171,9786053333333,Simyacı,3,Orta karar bir kitap.,KitapSeç,0,negative,negatif,0.99922013,notr
+172,9786053333333,Simyacı,3,Ne çok iyi ne çok kötü.,Trendyol,0,negative,negatif,0.9178426,notr
+173,9786053333333,Simyacı,3,Orta karar bir kitap.,Trendyol,0,negative,negatif,0.99922013,notr
+174,9786053333333,Simyacı,2,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+175,9786053333333,Simyacı,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+176,9786053333333,Simyacı,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+177,9786053333333,Simyacı,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+178,9786053333333,Simyacı,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+179,9786053333333,Simyacı,2,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+180,9786053333333,Simyacı,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+181,9786054444444,Sefiller,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",KitapSeç,0,negative,negatif,0.9990742,notr
+182,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+183,9786054444444,Sefiller,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+184,9786054444444,Sefiller,1,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç,0,negative,negatif,0.9995968,negatif
+185,9786054444444,Sefiller,4,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+186,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+187,9786054444444,Sefiller,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+188,9786054444444,Sefiller,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+189,9786054444444,Sefiller,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+190,9786054444444,Sefiller,2,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+191,9786054444444,Sefiller,1,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+192,9786054444444,Sefiller,3,Ne çok iyi ne çok kötü.,Trendyol,0,negative,negatif,0.9178426,notr
+193,9786054444444,Sefiller,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+194,9786054444444,Sefiller,1,Dili ağır ve anlaşılmaz.,KitapSeç,0,negative,negatif,0.9980343,negatif
+195,9786054444444,Sefiller,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+196,9786054444444,Sefiller,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+197,9786054444444,Sefiller,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+198,9786054444444,Sefiller,2,"Kurgu zayıf, zaman kaybı oldu.",Trendyol,0,negative,negatif,0.9995968,negatif
+199,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+200,9786054444444,Sefiller,4,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+201,9786054444444,Sefiller,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+202,9786054444444,Sefiller,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+203,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+204,9786054444444,Sefiller,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+205,9786054444444,Sefiller,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+206,9786054444444,Sefiller,4,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+207,9786054444444,Sefiller,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+208,9786054444444,Sefiller,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+209,9786054444444,Sefiller,3,Orta karar bir kitap.,Trendyol,0,negative,negatif,0.99922013,notr
+210,9786054444444,Sefiller,2,"Kurgu zayıf, zaman kaybı oldu.",Trendyol,0,negative,negatif,0.9995968,negatif
+211,9786054444444,Sefiller,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+212,9786054444444,Sefiller,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+213,9786054444444,Sefiller,2,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+214,9786054444444,Sefiller,1,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+215,9786054444444,Sefiller,3,Orta karar bir kitap.,Trendyol,0,negative,negatif,0.99922013,notr
+216,9786054444444,Sefiller,1,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç,0,negative,negatif,0.9995968,negatif
+217,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+218,9786054444444,Sefiller,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol,0,negative,negatif,0.9995968,negatif
+219,9786054444444,Sefiller,3,Orta karar bir kitap.,KitapSeç,0,negative,negatif,0.99922013,notr
+220,9786054444444,Sefiller,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+221,9786054444444,Sefiller,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+222,9786054444444,Sefiller,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+223,9786054444444,Sefiller,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+224,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+225,9786054444444,Sefiller,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+226,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+227,9786054444444,Sefiller,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+228,9786054444444,Sefiller,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+229,9786054444444,Sefiller,2,Dili ağır ve anlaşılmaz.,KitapSeç,0,negative,negatif,0.9980343,negatif
+230,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+231,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+232,9786054444444,Sefiller,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+233,9786054444444,Sefiller,1,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+234,9786054444444,Sefiller,2,Dili ağır ve anlaşılmaz.,KitapSeç,0,negative,negatif,0.9980343,negatif
+235,9786054444444,Sefiller,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+236,9786054444444,Sefiller,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+237,9786054444444,Sefiller,1,Dili ağır ve anlaşılmaz.,KitapSeç,0,negative,negatif,0.9980343,negatif
+238,9786054444444,Sefiller,3,Orta karar bir kitap.,Trendyol,0,negative,negatif,0.99922013,notr
+239,9786054444444,Sefiller,3,Orta karar bir kitap.,KitapSeç,0,negative,negatif,0.99922013,notr
+240,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+241,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+242,9786055555555,Tutunamayanlar,1,Dili ağır ve anlaşılmaz.,KitapSeç,0,negative,negatif,0.9980343,negatif
+243,9786055555555,Tutunamayanlar,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+244,9786055555555,Tutunamayanlar,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+245,9786055555555,Tutunamayanlar,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+246,9786055555555,Tutunamayanlar,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+247,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+248,9786055555555,Tutunamayanlar,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+249,9786055555555,Tutunamayanlar,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+250,9786055555555,Tutunamayanlar,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol,0,negative,negatif,0.9995968,negatif
+251,9786055555555,Tutunamayanlar,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+252,9786055555555,Tutunamayanlar,1,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç,0,negative,negatif,0.9995968,negatif
+253,9786055555555,Tutunamayanlar,3,Ne çok iyi ne çok kötü.,KitapSeç,0,negative,negatif,0.91784275,notr
+254,9786055555555,Tutunamayanlar,1,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+255,9786055555555,Tutunamayanlar,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+256,9786055555555,Tutunamayanlar,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+257,9786055555555,Tutunamayanlar,3,Ne çok iyi ne çok kötü.,Trendyol,0,negative,negatif,0.91784275,notr
+258,9786055555555,Tutunamayanlar,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+259,9786055555555,Tutunamayanlar,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+260,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+261,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+262,9786055555555,Tutunamayanlar,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+263,9786055555555,Tutunamayanlar,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+264,9786055555555,Tutunamayanlar,1,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+265,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+266,9786055555555,Tutunamayanlar,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+267,9786055555555,Tutunamayanlar,1,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç,0,negative,negatif,0.9995968,negatif
+268,9786055555555,Tutunamayanlar,3,Orta karar bir kitap.,KitapSeç,0,negative,negatif,0.99922013,notr
+269,9786055555555,Tutunamayanlar,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+270,9786055555555,Tutunamayanlar,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol,0,negative,negatif,0.9995968,negatif
+271,9786055555555,Tutunamayanlar,2,Dili ağır ve anlaşılmaz.,KitapSeç,0,negative,negatif,0.9980343,negatif
+272,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+273,9786055555555,Tutunamayanlar,3,Orta karar bir kitap.,Trendyol,0,negative,negatif,0.99922013,notr
+274,9786055555555,Tutunamayanlar,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç,1,positive,pozitif,0.9864379,pozitif
+275,9786055555555,Tutunamayanlar,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",KitapSeç,0,negative,negatif,0.9990742,notr
+276,9786055555555,Tutunamayanlar,2,"Kurgu zayıf, zaman kaybı oldu.",Trendyol,0,negative,negatif,0.9995968,negatif
+277,9786055555555,Tutunamayanlar,2,Dili ağır ve anlaşılmaz.,KitapSeç,0,negative,negatif,0.9980343,negatif
+278,9786055555555,Tutunamayanlar,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",KitapSeç,0,negative,negatif,0.9990742,notr
+279,9786055555555,Tutunamayanlar,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+280,9786055555555,Tutunamayanlar,2,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç,0,negative,negatif,0.9995968,negatif
+281,9786055555555,Tutunamayanlar,2,Dili ağır ve anlaşılmaz.,Trendyol,0,negative,negatif,0.9980343,negatif
+282,9786055555555,Tutunamayanlar,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",KitapSeç,0,negative,negatif,0.9990742,notr
+283,9786055555555,Tutunamayanlar,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+284,9786055555555,Tutunamayanlar,3,Orta karar bir kitap.,Trendyol,0,negative,negatif,0.99922013,notr
+285,9786055555555,Tutunamayanlar,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+286,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+287,9786055555555,Tutunamayanlar,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol,1,positive,pozitif,0.9864379,pozitif
+288,9786055555555,Tutunamayanlar,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+289,9786055555555,Tutunamayanlar,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+290,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+291,9786055555555,Tutunamayanlar,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+292,9786055555555,Tutunamayanlar,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif
+293,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç,1,positive,pozitif,0.9917176,pozitif
+294,9786055555555,Tutunamayanlar,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",KitapSeç,0,negative,negatif,0.9990742,notr
+295,9786055555555,Tutunamayanlar,3,Ne çok iyi ne çok kötü.,KitapSeç,0,negative,negatif,0.91784275,notr
+296,9786055555555,Tutunamayanlar,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç,0,negative,negatif,0.9995003,negatif
+297,9786055555555,Tutunamayanlar,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç,1,positive,pozitif,0.977786,pozitif
+298,9786055555555,Tutunamayanlar,2,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol,0,negative,negatif,0.9995003,negatif
+299,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol,1,positive,pozitif,0.9917176,pozitif
+300,9786055555555,Tutunamayanlar,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol,1,positive,pozitif,0.977786,pozitif

@@ -1,0 +1,301 @@
+﻿Id,ISBN,KitapAdi,KullaniciPuani,YorumIcerigi,KaynakSite
+1,9786051111111,Suç ve Ceza,3,Orta karar bir kitap.,KitapSeç
+2,9786051111111,Suç ve Ceza,2,Dili ağır ve anlaşılmaz.,KitapSeç
+3,9786051111111,Suç ve Ceza,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+4,9786051111111,Suç ve Ceza,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol
+5,9786051111111,Suç ve Ceza,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol
+6,9786051111111,Suç ve Ceza,2,Dili ağır ve anlaşılmaz.,KitapSeç
+7,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+8,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+9,9786051111111,Suç ve Ceza,4,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+10,9786051111111,Suç ve Ceza,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+11,9786051111111,Suç ve Ceza,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+12,9786051111111,Suç ve Ceza,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+13,9786051111111,Suç ve Ceza,3,Orta karar bir kitap.,Trendyol
+14,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+15,9786051111111,Suç ve Ceza,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+16,9786051111111,Suç ve Ceza,2,"Kurgu zayıf, zaman kaybı oldu.",Trendyol
+17,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+18,9786051111111,Suç ve Ceza,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+19,9786051111111,Suç ve Ceza,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol
+20,9786051111111,Suç ve Ceza,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+21,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+22,9786051111111,Suç ve Ceza,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+23,9786051111111,Suç ve Ceza,3,Ne çok iyi ne çok kötü.,KitapSeç
+24,9786051111111,Suç ve Ceza,3,Orta karar bir kitap.,Trendyol
+25,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+26,9786051111111,Suç ve Ceza,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol
+27,9786051111111,Suç ve Ceza,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+28,9786051111111,Suç ve Ceza,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol
+29,9786051111111,Suç ve Ceza,2,Dili ağır ve anlaşılmaz.,KitapSeç
+30,9786051111111,Suç ve Ceza,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+31,9786051111111,Suç ve Ceza,3,Ne çok iyi ne çok kötü.,Trendyol
+32,9786051111111,Suç ve Ceza,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+33,9786051111111,Suç ve Ceza,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+34,9786051111111,Suç ve Ceza,2,Dili ağır ve anlaşılmaz.,KitapSeç
+35,9786051111111,Suç ve Ceza,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+36,9786051111111,Suç ve Ceza,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+37,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+38,9786051111111,Suç ve Ceza,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+39,9786051111111,Suç ve Ceza,2,Dili ağır ve anlaşılmaz.,Trendyol
+40,9786051111111,Suç ve Ceza,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+41,9786051111111,Suç ve Ceza,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+42,9786051111111,Suç ve Ceza,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+43,9786051111111,Suç ve Ceza,3,Orta karar bir kitap.,KitapSeç
+44,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+45,9786051111111,Suç ve Ceza,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol
+46,9786051111111,Suç ve Ceza,3,Ne çok iyi ne çok kötü.,Trendyol
+47,9786051111111,Suç ve Ceza,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+48,9786051111111,Suç ve Ceza,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+49,9786051111111,Suç ve Ceza,2,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+50,9786051111111,Suç ve Ceza,1,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç
+51,9786051111111,Suç ve Ceza,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+52,9786051111111,Suç ve Ceza,3,Ne çok iyi ne çok kötü.,KitapSeç
+53,9786051111111,Suç ve Ceza,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+54,9786051111111,Suç ve Ceza,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+55,9786051111111,Suç ve Ceza,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+56,9786051111111,Suç ve Ceza,4,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+57,9786051111111,Suç ve Ceza,3,Orta karar bir kitap.,KitapSeç
+58,9786051111111,Suç ve Ceza,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+59,9786051111111,Suç ve Ceza,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol
+60,9786051111111,Suç ve Ceza,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol
+61,9786052222222,Kürk Mantolu Madonna,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+62,9786052222222,Kürk Mantolu Madonna,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+63,9786052222222,Kürk Mantolu Madonna,1,Dili ağır ve anlaşılmaz.,KitapSeç
+64,9786052222222,Kürk Mantolu Madonna,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+65,9786052222222,Kürk Mantolu Madonna,2,Dili ağır ve anlaşılmaz.,Trendyol
+66,9786052222222,Kürk Mantolu Madonna,1,Dili ağır ve anlaşılmaz.,Trendyol
+67,9786052222222,Kürk Mantolu Madonna,2,Dili ağır ve anlaşılmaz.,Trendyol
+68,9786052222222,Kürk Mantolu Madonna,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+69,9786052222222,Kürk Mantolu Madonna,2,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç
+70,9786052222222,Kürk Mantolu Madonna,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+71,9786052222222,Kürk Mantolu Madonna,1,Dili ağır ve anlaşılmaz.,Trendyol
+72,9786052222222,Kürk Mantolu Madonna,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+73,9786052222222,Kürk Mantolu Madonna,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+74,9786052222222,Kürk Mantolu Madonna,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+75,9786052222222,Kürk Mantolu Madonna,3,Orta karar bir kitap.,KitapSeç
+76,9786052222222,Kürk Mantolu Madonna,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+77,9786052222222,Kürk Mantolu Madonna,3,Ne çok iyi ne çok kötü.,KitapSeç
+78,9786052222222,Kürk Mantolu Madonna,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+79,9786052222222,Kürk Mantolu Madonna,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+80,9786052222222,Kürk Mantolu Madonna,4,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+81,9786052222222,Kürk Mantolu Madonna,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+82,9786052222222,Kürk Mantolu Madonna,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+83,9786052222222,Kürk Mantolu Madonna,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+84,9786052222222,Kürk Mantolu Madonna,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+85,9786052222222,Kürk Mantolu Madonna,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+86,9786052222222,Kürk Mantolu Madonna,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+87,9786052222222,Kürk Mantolu Madonna,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+88,9786052222222,Kürk Mantolu Madonna,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+89,9786052222222,Kürk Mantolu Madonna,3,Ne çok iyi ne çok kötü.,KitapSeç
+90,9786052222222,Kürk Mantolu Madonna,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+91,9786052222222,Kürk Mantolu Madonna,2,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+92,9786052222222,Kürk Mantolu Madonna,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+93,9786052222222,Kürk Mantolu Madonna,3,Orta karar bir kitap.,KitapSeç
+94,9786052222222,Kürk Mantolu Madonna,1,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç
+95,9786052222222,Kürk Mantolu Madonna,3,Ne çok iyi ne çok kötü.,Trendyol
+96,9786052222222,Kürk Mantolu Madonna,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol
+97,9786052222222,Kürk Mantolu Madonna,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+98,9786052222222,Kürk Mantolu Madonna,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+99,9786052222222,Kürk Mantolu Madonna,3,Orta karar bir kitap.,Trendyol
+100,9786052222222,Kürk Mantolu Madonna,3,Orta karar bir kitap.,KitapSeç
+101,9786052222222,Kürk Mantolu Madonna,3,Orta karar bir kitap.,Trendyol
+102,9786052222222,Kürk Mantolu Madonna,3,Orta karar bir kitap.,KitapSeç
+103,9786052222222,Kürk Mantolu Madonna,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol
+104,9786052222222,Kürk Mantolu Madonna,3,Ne çok iyi ne çok kötü.,Trendyol
+105,9786052222222,Kürk Mantolu Madonna,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+106,9786052222222,Kürk Mantolu Madonna,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+107,9786052222222,Kürk Mantolu Madonna,3,Ne çok iyi ne çok kötü.,KitapSeç
+108,9786052222222,Kürk Mantolu Madonna,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+109,9786052222222,Kürk Mantolu Madonna,1,Dili ağır ve anlaşılmaz.,Trendyol
+110,9786052222222,Kürk Mantolu Madonna,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+111,9786052222222,Kürk Mantolu Madonna,2,"Kurgu zayıf, zaman kaybı oldu.",Trendyol
+112,9786052222222,Kürk Mantolu Madonna,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+113,9786052222222,Kürk Mantolu Madonna,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+114,9786052222222,Kürk Mantolu Madonna,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+115,9786052222222,Kürk Mantolu Madonna,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol
+116,9786052222222,Kürk Mantolu Madonna,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+117,9786052222222,Kürk Mantolu Madonna,2,"Kurgu zayıf, zaman kaybı oldu.",Trendyol
+118,9786052222222,Kürk Mantolu Madonna,1,Dili ağır ve anlaşılmaz.,Trendyol
+119,9786052222222,Kürk Mantolu Madonna,2,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+120,9786052222222,Kürk Mantolu Madonna,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+121,9786053333333,Simyacı,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+122,9786053333333,Simyacı,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+123,9786053333333,Simyacı,1,Dili ağır ve anlaşılmaz.,Trendyol
+124,9786053333333,Simyacı,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+125,9786053333333,Simyacı,3,Orta karar bir kitap.,KitapSeç
+126,9786053333333,Simyacı,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+127,9786053333333,Simyacı,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+128,9786053333333,Simyacı,2,Dili ağır ve anlaşılmaz.,KitapSeç
+129,9786053333333,Simyacı,2,Dili ağır ve anlaşılmaz.,Trendyol
+130,9786053333333,Simyacı,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol
+131,9786053333333,Simyacı,3,Orta karar bir kitap.,KitapSeç
+132,9786053333333,Simyacı,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+133,9786053333333,Simyacı,1,Dili ağır ve anlaşılmaz.,KitapSeç
+134,9786053333333,Simyacı,3,Ne çok iyi ne çok kötü.,Trendyol
+135,9786053333333,Simyacı,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+136,9786053333333,Simyacı,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+137,9786053333333,Simyacı,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol
+138,9786053333333,Simyacı,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+139,9786053333333,Simyacı,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+140,9786053333333,Simyacı,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+141,9786053333333,Simyacı,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+142,9786053333333,Simyacı,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",KitapSeç
+143,9786053333333,Simyacı,2,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç
+144,9786053333333,Simyacı,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",KitapSeç
+145,9786053333333,Simyacı,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+146,9786053333333,Simyacı,3,Orta karar bir kitap.,KitapSeç
+147,9786053333333,Simyacı,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",KitapSeç
+148,9786053333333,Simyacı,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+149,9786053333333,Simyacı,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+150,9786053333333,Simyacı,3,Orta karar bir kitap.,KitapSeç
+151,9786053333333,Simyacı,3,Orta karar bir kitap.,KitapSeç
+152,9786053333333,Simyacı,1,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç
+153,9786053333333,Simyacı,2,Dili ağır ve anlaşılmaz.,KitapSeç
+154,9786053333333,Simyacı,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+155,9786053333333,Simyacı,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+156,9786053333333,Simyacı,4,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+157,9786053333333,Simyacı,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+158,9786053333333,Simyacı,3,Ne çok iyi ne çok kötü.,Trendyol
+159,9786053333333,Simyacı,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+160,9786053333333,Simyacı,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol
+161,9786053333333,Simyacı,3,Ne çok iyi ne çok kötü.,KitapSeç
+162,9786053333333,Simyacı,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+163,9786053333333,Simyacı,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+164,9786053333333,Simyacı,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+165,9786053333333,Simyacı,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+166,9786053333333,Simyacı,2,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç
+167,9786053333333,Simyacı,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+168,9786053333333,Simyacı,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol
+169,9786053333333,Simyacı,2,Dili ağır ve anlaşılmaz.,Trendyol
+170,9786053333333,Simyacı,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",Trendyol
+171,9786053333333,Simyacı,3,Orta karar bir kitap.,KitapSeç
+172,9786053333333,Simyacı,3,Ne çok iyi ne çok kötü.,Trendyol
+173,9786053333333,Simyacı,3,Orta karar bir kitap.,Trendyol
+174,9786053333333,Simyacı,2,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+175,9786053333333,Simyacı,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+176,9786053333333,Simyacı,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+177,9786053333333,Simyacı,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+178,9786053333333,Simyacı,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+179,9786053333333,Simyacı,2,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+180,9786053333333,Simyacı,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+181,9786054444444,Sefiller,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",KitapSeç
+182,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+183,9786054444444,Sefiller,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+184,9786054444444,Sefiller,1,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç
+185,9786054444444,Sefiller,4,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+186,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+187,9786054444444,Sefiller,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+188,9786054444444,Sefiller,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+189,9786054444444,Sefiller,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+190,9786054444444,Sefiller,2,Dili ağır ve anlaşılmaz.,Trendyol
+191,9786054444444,Sefiller,1,Dili ağır ve anlaşılmaz.,Trendyol
+192,9786054444444,Sefiller,3,Ne çok iyi ne çok kötü.,Trendyol
+193,9786054444444,Sefiller,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+194,9786054444444,Sefiller,1,Dili ağır ve anlaşılmaz.,KitapSeç
+195,9786054444444,Sefiller,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+196,9786054444444,Sefiller,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+197,9786054444444,Sefiller,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+198,9786054444444,Sefiller,2,"Kurgu zayıf, zaman kaybı oldu.",Trendyol
+199,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+200,9786054444444,Sefiller,4,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+201,9786054444444,Sefiller,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+202,9786054444444,Sefiller,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+203,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+204,9786054444444,Sefiller,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+205,9786054444444,Sefiller,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+206,9786054444444,Sefiller,4,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+207,9786054444444,Sefiller,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+208,9786054444444,Sefiller,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+209,9786054444444,Sefiller,3,Orta karar bir kitap.,Trendyol
+210,9786054444444,Sefiller,2,"Kurgu zayıf, zaman kaybı oldu.",Trendyol
+211,9786054444444,Sefiller,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+212,9786054444444,Sefiller,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+213,9786054444444,Sefiller,2,Dili ağır ve anlaşılmaz.,Trendyol
+214,9786054444444,Sefiller,1,Dili ağır ve anlaşılmaz.,Trendyol
+215,9786054444444,Sefiller,3,Orta karar bir kitap.,Trendyol
+216,9786054444444,Sefiller,1,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç
+217,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+218,9786054444444,Sefiller,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol
+219,9786054444444,Sefiller,3,Orta karar bir kitap.,KitapSeç
+220,9786054444444,Sefiller,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+221,9786054444444,Sefiller,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+222,9786054444444,Sefiller,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+223,9786054444444,Sefiller,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+224,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+225,9786054444444,Sefiller,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+226,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+227,9786054444444,Sefiller,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+228,9786054444444,Sefiller,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+229,9786054444444,Sefiller,2,Dili ağır ve anlaşılmaz.,KitapSeç
+230,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+231,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+232,9786054444444,Sefiller,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+233,9786054444444,Sefiller,1,Dili ağır ve anlaşılmaz.,Trendyol
+234,9786054444444,Sefiller,2,Dili ağır ve anlaşılmaz.,KitapSeç
+235,9786054444444,Sefiller,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+236,9786054444444,Sefiller,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+237,9786054444444,Sefiller,1,Dili ağır ve anlaşılmaz.,KitapSeç
+238,9786054444444,Sefiller,3,Orta karar bir kitap.,Trendyol
+239,9786054444444,Sefiller,3,Orta karar bir kitap.,KitapSeç
+240,9786054444444,Sefiller,5,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+241,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+242,9786055555555,Tutunamayanlar,1,Dili ağır ve anlaşılmaz.,KitapSeç
+243,9786055555555,Tutunamayanlar,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+244,9786055555555,Tutunamayanlar,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+245,9786055555555,Tutunamayanlar,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+246,9786055555555,Tutunamayanlar,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+247,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+248,9786055555555,Tutunamayanlar,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+249,9786055555555,Tutunamayanlar,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+250,9786055555555,Tutunamayanlar,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol
+251,9786055555555,Tutunamayanlar,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+252,9786055555555,Tutunamayanlar,1,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç
+253,9786055555555,Tutunamayanlar,3,Ne çok iyi ne çok kötü.,KitapSeç
+254,9786055555555,Tutunamayanlar,1,Dili ağır ve anlaşılmaz.,Trendyol
+255,9786055555555,Tutunamayanlar,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+256,9786055555555,Tutunamayanlar,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+257,9786055555555,Tutunamayanlar,3,Ne çok iyi ne çok kötü.,Trendyol
+258,9786055555555,Tutunamayanlar,5,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+259,9786055555555,Tutunamayanlar,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+260,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+261,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+262,9786055555555,Tutunamayanlar,5,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+263,9786055555555,Tutunamayanlar,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+264,9786055555555,Tutunamayanlar,1,Dili ağır ve anlaşılmaz.,Trendyol
+265,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+266,9786055555555,Tutunamayanlar,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+267,9786055555555,Tutunamayanlar,1,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç
+268,9786055555555,Tutunamayanlar,3,Orta karar bir kitap.,KitapSeç
+269,9786055555555,Tutunamayanlar,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+270,9786055555555,Tutunamayanlar,1,"Kurgu zayıf, zaman kaybı oldu.",Trendyol
+271,9786055555555,Tutunamayanlar,2,Dili ağır ve anlaşılmaz.,KitapSeç
+272,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+273,9786055555555,Tutunamayanlar,3,Orta karar bir kitap.,Trendyol
+274,9786055555555,Tutunamayanlar,4,"Çok beğendim, dili akıcı ve etkileyici.",KitapSeç
+275,9786055555555,Tutunamayanlar,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",KitapSeç
+276,9786055555555,Tutunamayanlar,2,"Kurgu zayıf, zaman kaybı oldu.",Trendyol
+277,9786055555555,Tutunamayanlar,2,Dili ağır ve anlaşılmaz.,KitapSeç
+278,9786055555555,Tutunamayanlar,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",KitapSeç
+279,9786055555555,Tutunamayanlar,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+280,9786055555555,Tutunamayanlar,2,"Kurgu zayıf, zaman kaybı oldu.",KitapSeç
+281,9786055555555,Tutunamayanlar,2,Dili ağır ve anlaşılmaz.,Trendyol
+282,9786055555555,Tutunamayanlar,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",KitapSeç
+283,9786055555555,Tutunamayanlar,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+284,9786055555555,Tutunamayanlar,3,Orta karar bir kitap.,Trendyol
+285,9786055555555,Tutunamayanlar,1,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+286,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+287,9786055555555,Tutunamayanlar,5,"Çok beğendim, dili akıcı ve etkileyici.",Trendyol
+288,9786055555555,Tutunamayanlar,2,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+289,9786055555555,Tutunamayanlar,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+290,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+291,9786055555555,Tutunamayanlar,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+292,9786055555555,Tutunamayanlar,5,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
+293,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",KitapSeç
+294,9786055555555,Tutunamayanlar,3,"Fena değil, bazı bölümler güzel bazıları sıradan.",KitapSeç
+295,9786055555555,Tutunamayanlar,3,Ne çok iyi ne çok kötü.,KitapSeç
+296,9786055555555,Tutunamayanlar,1,"Beklentimi karşılamadı, çok sıkıcıydı.",KitapSeç
+297,9786055555555,Tutunamayanlar,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",KitapSeç
+298,9786055555555,Tutunamayanlar,2,"Beklentimi karşılamadı, çok sıkıcıydı.",Trendyol
+299,9786055555555,Tutunamayanlar,4,"Harika bir eser, herkese tavsiye ederim.",Trendyol
+300,9786055555555,Tutunamayanlar,4,"Yazarın anlatımı muazzam, tekrar okuyacağım.",Trendyol
